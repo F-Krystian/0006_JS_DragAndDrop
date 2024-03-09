@@ -46,4 +46,9 @@ body{
   width: 100%;
   background-color: hsla(0, 0%, 90%, 1);
   border-radius: 1rem;
+  cursor: pointer;
+}
+
+.dragging{
+  opacity: .6;
 }
